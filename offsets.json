@@ -42,14 +42,14 @@
     "ComponentVelocity": "0x188",
     "LastRenderTime": "0x328",
 
-    "CameraLocation": "0x170",
-    "CameraRotation": "0x180",
+    "CameraLocation": "0x178",
+    "CameraRotation": "0x188",
     "CameraFOV": "0x3b4",
 
     "CurrentVehicle": "0x2c68",
 
     "CurrentWeapon": "0x990",
-    "WeaponData": "0x5F8",
+    "WeaponData": "0x5c0",
     "WeaponOffsetCorrection": "0x2c00",
     "AdditionalAimOffset": "0x2ba0",
     "AmmoCount": "0x1184",
