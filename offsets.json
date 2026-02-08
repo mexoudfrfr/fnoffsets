@@ -62,10 +62,10 @@
     "Spectators": "0xaa0",
     "SpectatorArray": "0x108",
 
-    "TargetSourceOffset": "0x10f8",
-    "TargetSourceOffsetWhileTargeting": "0x1128",
-    "TargetSourceOffsetWhileCrouched": "0x1110",
-    "bTraceThroughWorld": "0x10dd",
+    "TargetSourceOffset": "0x13c8",
+    "TargetSourceOffsetWhileTargeting": "0x13f8",
+    "TargetSourceOffsetWhileCrouched": "0x13e0",
+    "bTraceThroughWorld": "0x13a9",
 
     "Tier": "0xaa",
     "ItemName": "0x40"
