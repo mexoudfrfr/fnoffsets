@@ -1,7 +1,7 @@
 {
   "offsets": {
-    "UWorld": "0x1780BA78",
-    "UWorldXorKey": "0x913F0DAFLL",
+    "UWorld": "0x17A91FD8",
+    "UWorldXorKey": "0xFFFFFFFFE869D197uLL",
 
     "LocalPlayers": "0x38",
     "PlayerController": "0x30",
@@ -51,7 +51,7 @@
     "CurrentWeapon": "0x990",
     "WeaponData": "0x5c0",
     "WeaponOffsetCorrection": "0x2c00",
-    "AdditionalAimOffset": "0x2ba0",
+    "AdditionalAimOffset": "0x2b80",
     "AmmoCount": "0x1184",
 
     "ProjectileSpeed": "0x2564",
