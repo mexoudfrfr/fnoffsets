@@ -42,8 +42,8 @@
     "ComponentVelocity": "0x188",
     "LastRenderTime": "0x328",
 
-    "CameraLocation": "0x170",
-    "CameraRotation": "0x180",
+    "CameraLocation": "0x178",
+    "CameraRotation": "0x188",
     "CameraFOV": "0x3b4",
 
     "CurrentVehicle": "0x2c68",
