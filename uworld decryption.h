@@ -1,6 +1,6 @@
 inline uint64_t DecryptUWorld(uint64_t world)
 {
-    return ~std::rotl(world, 32) ^ 0x97F199673D1F48C6uLL;
+    return ((world << 32) | (world >> (64 - 32))) ^ 0x35E5647853A0CBFULL;
 }
 
 //example usage
