@@ -1,6 +1,10 @@
-inline uint64_t DecryptUWorld(uint64_t world)
+static inline uintptr_t DecryptUworld(uint64_t v)
 {
-    return ((world << 32) | (world >> (64 - 32))) ^ 0x35E5647853A0CBFULL;
+    v ^= 0xCF76574CULL;
+    v = _rotl64(v, 48);
+    v = ~v;
+
+    return static_cast<uintptr_t>(v);
 }
 
 //example usage
