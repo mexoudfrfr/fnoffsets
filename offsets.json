@@ -1,7 +1,7 @@
 {
   "offsets": {
-    "UWorld": "0x19401C60",
-    "UWorldXorKey": "0x35E5647853A0CBFULL",
+    "UWorld": "0x1895DE60",
+    "UWorldXorKey": "0xCF76574CULL",
 
     "LocalPlayers": "0x38",
     "PlayerController": "0x30",
@@ -14,7 +14,7 @@
     "bIsABot": "0x2BA",
 
     "Platform": "0x440",
-    "TargetedFortPawn": "0x1810",
+    "TargetedFortPawn": "0x1840",
     "KillScore": "0x110c",
     "RebootCount": "0x1894",
     "PlayerName": "0xA08",
@@ -49,9 +49,9 @@
     "CurrentVehicle": "0x2c68",
 
     "CurrentWeapon": "0x990",
-    "WeaponData": "0x678",
+    "WeaponData": "0x688",
     "WeaponOffsetCorrection": "0x2c00",
-    "AdditionalAimOffset": "0x29c0",
+    "AdditionalAimOffset": "0x2B80",
     "AmmoCount": "0x14d4",
 
     "ProjectileSpeed": "0x2564",
