@@ -28,6 +28,7 @@
 
     "PersistentLevel": "0x40",
     "Levels": "0x1f0",
+    "SeasonLevelUIDisplay": "0x11dc",
 
     "AActor": "0x158",
     "RootComponent": "0x1B0",
@@ -41,7 +42,8 @@
     "RelativeLocation": "0x140",
     "RelativeRotation": "0x158",
     "ComponentVelocity": "0x188",
-    "LastRenderTime": "0x328",
+    "OverlappingBuildings": "0x1df8",
+    "LastRenderTime": "0x330",
 
     "CameraLocation": "0x180",
     "CameraRotation": "0x190",
