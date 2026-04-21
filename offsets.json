@@ -32,7 +32,7 @@
 
     "AActor": "0x148",
     "RootComponent": "0x1B0",
-    "PawnPrivate": "0x328",
+    "PawnPrivate": "0x320",
 
     "Mesh": "0x330",
     "BoneArray": "0x628",
