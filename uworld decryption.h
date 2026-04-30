@@ -1,6 +1,6 @@
 static inline uintptr_t DecryptUworld(uint64_t v)
 {
-    return (uintptr_t)((uint64_t)(_byteswap_uint64((uint64_t)v) + 2700046658ULL));
+    return static_cast<std::uintptr_t>(_byteswap_uint64(v) + 3967734672ULL);
 }
 
 //example usage
