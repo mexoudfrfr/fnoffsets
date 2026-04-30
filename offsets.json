@@ -9,7 +9,7 @@
     "AcknowledgedPawn": "0x358",
     "PlayerState": "0x2d0",
     "TeamIndex": "0x1211",
-    "InitialSquadSize": "0x1a00",
+    "InitialSquadSize": "0x19f8",
     "bIsDying": "0x728",
     "bIsDBNO": "0x841",
     "bIsABot": "0x2ba",
@@ -23,7 +23,7 @@
     "RankedProgress": "0xd8",
 
     "OwningGameInstance": "0x240",
-    "GameState": "0x1d0",
+    "GameState": "0x1c8",
     "PlayerArray": "0x2c8",
 
     "PersistentLevel": "0x38",
@@ -53,7 +53,7 @@
 
     "CurrentWeapon": "0x990",
     "WeaponData": "0x628",
-    "WeaponOffsetCorrection": "0x26f0",
+    "WeaponOffsetCorrection": "0x26e0",
     "AdditionalAimOffset": "0x2690",
     "AmmoCount": "0x11bc",
 
@@ -65,10 +65,10 @@
     "Spectators": "0xAB0",
     "SpectatorArray": "0x108",
 
-    "TargetSourceOffset": "0x1130",
-    "TargetSourceOffsetWhileTargeting": "0x1160",
-    "TargetSourceOffsetWhileCrouched": "0x1148",
-    "bTraceThroughWorld": "0x1115",
+    "TargetSourceOffset": "0x10e0",
+    "TargetSourceOffsetWhileTargeting": "0x1110",
+    "TargetSourceOffsetWhileCrouched": "0x10f8",
+    "bTraceThroughWorld": "0x10c1",
 
     "Tier": "0xaa",
     "ItemName": "0x38"
